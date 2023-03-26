@@ -15,7 +15,17 @@ cd iplookup
 python iplookup.py
 ```
 ### Window
-* Install: 
+* First, download the iplookup.py file to your computer.
+* Install Python on your computer if you haven't already. You can download it from the official Python website: https://www.python.org/downloads/
+* Install the requests library. You can do this by running the following command in your terminal or command prompt:
+```python
+pip install requests
+```
+* Open your terminal or command prompt and navigate to the directory where you saved the iplookup.py file.
+* Run the iplookup.py file by typing the following command and pressing enter:
+```
+python iplookup.py
+```
 
 ## Help Guide
 ```
